@@ -17,7 +17,7 @@ Starting in Unity 2019.2, GameObjects now have a [TryGetComponent()][trygetcompo
 Basically, instead of doing:
 
 {% highlight csharp %}
-Rigidbody rb = this.GetComponent<Rigidbody>();
+Rigidbody rb = this.GetComponent&lt;Rigidbody&gt;();
 
 if(rb != null)
 {
@@ -28,7 +28,7 @@ if(rb != null)
 This can be kinda cleaned up into the following:
 
 {% highlight csharp %}
-if(this.TryGetComponent<Rigidbody>(out Rigidbody rb))
+if(this.TryGetComponent&lt;Rigidbody&gt;(out Rigidbody rb))
 {
   // do whatever you were gonna do with the Rigidbody using the rb variable
 }

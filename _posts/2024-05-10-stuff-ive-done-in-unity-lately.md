@@ -6,12 +6,12 @@ author: hunterpankey
 date: '2024-05-10 14:30:00 -0400'
 category: ['unity','dev', 'gamedev', 'recap']
 tags: 
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: 
 keywords: unity dev gamedev traffic tactical strategy rpg water urp synty
 usemathjax: false
 permalink: /blog/may-2024-unity-recap/
 ---
-I've been playing with various things in Unity lately, what with the asset store sales on over the past few weeks. I definitely feel guilty (to myself, I guess) for spending a bunch of money on cool models and systems and stuff. Everything looks so fun and helpful, and when it's all 50-70% off of a more or less reasonable starting price, who can resist?
+I've been playing with various things in Unity lately, what with the asset store sales on over the past few weeks. I definitely feel guilty (to myself, I guess) for spending a bunch of money on cool models and systems and stuff and not doing enough with them. Everything looks so fun and helpful, and when it's all 50-70% off of a more or less reasonable starting price, who can resist?
 
 ## Traffic
 I'm somewhat obsessed with putting together a modern city/town scene with some actual life to it. The [Synty Polygon City][synty-polygon-city] and [Town][synty-polygon-town] packs are nice, though a bit old at this point, but they're very stationary and static by default. I've done enough of a car traffic system of my own to know what to look for in a traffic system. I've now used a couple of traffic systems and have recently worked with the Gley Games [Mobile Traffic System][gley-games-traffic] one.
