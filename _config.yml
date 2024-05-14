@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Unity is great and the asset store is full of good stuff to help a solo dev make some progress. But documentation is frequently terrible, so here's a blog about the stuff I use and how to make it work, but like, for real.
 
 # url: "https://hunterpankey.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-url: "https://unity.hunterpankey.com" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://gamedev.hunterpankey.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -58,7 +58,7 @@ author_project_details:
     project_description: Windows application to track statistics in Fall Guys
     project_url: https://github.com/ShootMe/FallGuysStats
     visibility: true
-  - project_thumbnail: projects/rocksniffergui.PNG
+  - project_thumbnail: projects/rocksniffergui.png
     project_title: RockSniffer GUI
     project_description: Windows application to track statistics in RockSmith
     project_url: https://github.com/hunterpankey/RockSnifferGui
